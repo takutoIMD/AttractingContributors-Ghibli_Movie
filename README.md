@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Rira Ikuta  
 - Fall Out Boy
 - Taylor Alison Swift
+- Queen
