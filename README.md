@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Fall Out Boy
 - Taylor Alison Swift
 - HONNE
+- Queen
