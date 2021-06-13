@@ -33,6 +33,7 @@ Please tell me your favorite number
 - 255
 - 21
 - 24
+- 7
 - 66
 - 001
 - 15
