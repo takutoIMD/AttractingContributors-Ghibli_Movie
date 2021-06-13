@@ -37,6 +37,8 @@ Please tell me your favorite number
 - 001
 - 15
 - 14
+- 1024
 - 417
 - 42
+
 
