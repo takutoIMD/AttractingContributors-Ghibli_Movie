@@ -14,3 +14,5 @@ Please add the title to the list of my README.md and make a Pull Request.
 7. 崖の上のポニョ
 8. Howl's Moving Castle
 9. The Wind Rises
+10. 千と千尋の神隠し
+
