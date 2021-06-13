@@ -13,3 +13,4 @@ Please add the title to the list of my README.md and make a Pull Request.
 6. 平成狸合戦　ぽんぽこ
 7. 崖の上のポニョ
 8. Howl's Moving Castle
+9. 千と千尋の神隠し
