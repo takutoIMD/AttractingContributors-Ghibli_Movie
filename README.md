@@ -26,4 +26,5 @@ Goal - I want contributors to help me list some favorite pokemon.
 5. Muk
 6. Jynx
 7. Gloom
-8. Weezing
+8. Weezing  
+9. Gardvoir
