@@ -34,3 +34,5 @@ please write url and title(expected)
 - レッツゴー陰陽師,https://www.nicovideo.jp/watch/sm9  
 - Battlefield 2042 Official Reveal Trailer (ft. 2WEI), https://youtu.be/ASzOzrB-a9E  
 - 映画『マイ・インターン』英会話！https://www.youtube.com/watch?v=mPABdvvD9hA
+- シン・エヴァンゲリオン劇場版:||　【超画質1080p】　Part1, 　https://nico.ms/sm38398235
+
