@@ -35,3 +35,4 @@ I want contributors who can help me list Youtubers, even Vtubers.
 12. Gawr Gura
 13. SEIKIN
 14. Bunmiho channel
+15. pakatube!
