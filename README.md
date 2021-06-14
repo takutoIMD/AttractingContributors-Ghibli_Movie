@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite pokemon.
 7. Gloom
 8. Weezing
 9. Ditto
+10. Gardvoir
